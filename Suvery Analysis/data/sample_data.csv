@@ -1,0 +1,11 @@
+user_id,age,gender,region,emoji,feedback_text,score,total,time_taken,timestamp
+U1,18,Female,East,😐,The class felt rushed and unclear.,6,10,00:07:00,2025-04-10
+U2,20,Male,West,😊,Really liked the pace and examples!,9,10,00:05:30,2025-04-11
+U3,22,Male,North,😡,Too difficult and not enough explanation.,4,10,00:09:45,2025-04-10
+U4,19,Female,South,😊,"Great teaching style, I understood everything.",10,10,00:06:15,2025-04-12
+U5,21,Other,Central,😐,Class was okay but a bit fast.,7,10,00:07:50,2025-04-11
+U6,23,Male,East,😡,Slides were confusing and skipped steps.,3,10,00:10:15,2025-04-13
+U7,20,Female,West,😊,Engaging session with practical problems.,8,10,00:06:40,2025-04-12
+U8,18,Male,South,😐,"It was fine, but I zoned out midway.",6,10,00:08:10,2025-04-12
+U9,22,Female,North,😡,I couldn’t follow along. Needs improvement.,4,10,00:09:00,2025-04-11
+U10,19,Female,Central,😊,Loved the examples and clear steps!,9,10,00:06:00,2025-04-13
